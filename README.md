@@ -1,7 +1,7 @@
 ## SneakerShop
 Web site created for those who whants but some sneakers.
 
-## Description of project##
+## Description of project
 It could be a commercial site for business.
 Sneaker shop - this site is created for those who want to buy stylish but at the same time cheap sneakers. Various brands such as Nike, Adidas, etc. are collected here
 
