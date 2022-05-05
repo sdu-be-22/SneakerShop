@@ -7,7 +7,7 @@ Sneaker shop - this site is created for those who want to buy stylish but at the
 
 ## Mentor
 Bissenbay Dauletbayev - b.dauletbayev@sdu.edu.kz
-##Team Members##
+## Team Members
 Seitmurat Seitkul - 200103125@stu.sdu.edu.kz
 Araylim Uali - 200103467@stu.sdu.edu.kz
 Togzhan Zhanay - 200103194@stu.sdu.edu.kz
