@@ -15,15 +15,15 @@ Bissenbay Dauletbayev - b.dauletbayev@sdu.edu.kz
 - Nazerke Yespolova - 200103293@stu.sdu.edu.kz
 
 ## Project structure
-Login/registration page
-Home page
-Category page
-Basket page
-Checkout(payment) page
-Wishlist page
-Profile page
-Users
-Tokens
+- Login/registration page
+- Home page
+- Category page
+- Basket page
+- Checkout(payment) page
+- Wishlist page
+- Profile page
+- Users
+- Tokens
 
 ## Screenshots
 ![Home page](https://user-images.githubusercontent.com/90910992/166883071-4c33afb9-af3e-4b2f-8a01-2cdb577148a9.png)
